@@ -1,7 +1,6 @@
 # Scale institutional knowledge using Copilot Spaces
 
 Learn how Copilot Spaces can scale institutional knowledge and streamline organizational processes.
-
 ## What are Copilot Spaces?
 
 - Copilot Spaces let you organize the context that Copilot uses to answer your questions.
