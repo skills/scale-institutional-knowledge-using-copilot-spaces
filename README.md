@@ -63,7 +63,18 @@ If the exercise isn't ready in 20 seconds, please check the [Actions](../../acti
 
 - If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
 
-- Steps advance automatically when you merge your pull request into `main`; no manual workflow approval is required. If a step seems delayed, check the [Actions](../../actions) tab to confirm the run completed.
+- Steps advance automatically when you merge your pull reques
+
+It teaches project managers, team leads, and developers how to use GitHub Copilot Spaces to:
+
+Organize repositories, issues, pull requests, notes, transcripts, and other context.
+Get more relevant, context-aware answers from Copilot.
+Capture and share institutional knowledge with a team.
+Support onboarding and reduce repeated questions.
+Create issues based on discovered needs or gaps.
+Review and summarize project-management documentation.
+Improve repository documentation using insights from the exercise.
+It is designed as a beginner-friendly exercise that takes less than 30 minutes and results in a knowledge-management system for team collaboration. The repository is also a template/fork of the corresponding exercise from the GitHub Skills organization.
 
 </details>
 
