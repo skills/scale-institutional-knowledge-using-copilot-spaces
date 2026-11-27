@@ -1,6 +1,6 @@
 ## Review
 
-_Congratulations, you've completed this exercise and learned a lot about scale institutional knowledge using GitHub Copilot Spaces!_
+_Congratulations, you've completed this exercise and learned a lot about scaling institutional knowledge using GitHub Copilot Spaces!_
 
 <img src="https://octodex.github.com/images/jetpacktocat.png" alt="celebrate" width=200 align=right>
 
